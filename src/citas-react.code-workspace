@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "D:/UNAH/Cursos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Cursos"
+	}
+}
